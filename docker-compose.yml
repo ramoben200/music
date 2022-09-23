@@ -3,7 +3,7 @@ services:
   worker:
     build: .
     environment:
-      SESSION_NAME: $SESSION_NAME
+      SESSION_NAME: $SESSION_NAMEe
       API_ID: $API_ID
       API_HASH: $API_HASH
       BOT_TOKEN: $BOT_TOKEN
