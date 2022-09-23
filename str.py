@@ -1,6 +1,6 @@
 import asyncio
 
-from pyrogram import Clientt
+from pyrogram import Client
 
 
 print("Enter your app information from my.telegram.org/apps below.")
