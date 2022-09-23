@@ -198,7 +198,7 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("🔖 Ballas 𝖬𝗎𝗓𝗂𝗄 Bot", url=f"https://t.me/Ballasresmi"),
+                InlineKeyboardButton("🔖 Ballas yardım için", url=f"https://t.me/Ballasresmi"),
             ],
         ]
     )
@@ -260,7 +260,7 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("🔖 Ballas 𝖬𝗎𝗓𝗂𝗄 Bot", url=f"https://t.me/Starbotdestek"),
+                InlineKeyboardButton("🔖 Ballas yardım için ", url=f"https://t.me/Ballasresmi"),
             ],
         ]
     )
