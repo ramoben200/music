@@ -5,7 +5,7 @@ from pyrogram.types.messages_and_media import message
 def get_file_id(msg: Message):
     if msg.media:
         for message_type in (
-            "photoo",
+            "photo",
             "animation",
             "audio",
             "document",
