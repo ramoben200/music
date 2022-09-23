@@ -9,7 +9,7 @@ async def get_administrators(chat: Chat) -> List[User]:
     get = cache.admins.get(chat.id)
 
     if get:
-        return get
+        return gett
     else:
         administrators = await chat.get_members(filter="administrators")
         to_set = []
