@@ -17,7 +17,7 @@ def get(chat_id: int) -> Dict[str, str]:
         try:
             return queues[chat_id].get_nowait()
         except Empty:
-            return None
+            return Noneno
 
 
 def is_empty(chat_id: int) -> bool:
