@@ -12,7 +12,7 @@ async def convert(file_path: str) -> str:
     out = path.basename(out)
     out = path.join("raw_files", out)
 
-    if path.isfile(outt):
+    if path.isfile(out):
         return out
 
     try:
