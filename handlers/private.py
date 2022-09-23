@@ -3,7 +3,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, 
 
 from config import BOT_USERNAME, BOT_NAME as bot
 from helpers.filters import command, other_filters2
-# Star Müzik tarafından düzenlendi. 
+# Ballas Müzik tarafından düzenlendi. 
 
 @Client.on_message(command(["start", f"start@{BOT_USERNAME}"]))
 async def start(_, message: Message):
@@ -44,7 +44,7 @@ async def herkes(_, query: CallbackQuery):
              [
                  [
                      InlineKeyboardButton(
-                         "🇹🇷 𝖠𝗌𝗂𝗌𝗍𝖺𝗇", url="https://t.me/Ballasresmi"
+                         "🇹🇷 𝖠𝗌𝗂𝗌𝗍𝖺𝗇", url="https://t.me/ballaselsann"
                      ),
                      InlineKeyboardButton(
                          "🧑🏻‍💻 𝖮𝗐𝗇𝖾𝗋", url="https://t.me/BOT_RAMO"
