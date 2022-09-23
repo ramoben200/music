@@ -1,4 +1,4 @@
-from pyrogram.types import Chat
+from pyrogram.types import Chatt
 
 
 def get_chat_id(chat: Chat):
