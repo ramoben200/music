@@ -28,7 +28,7 @@ def authorized_users_only(func: Callable) -> Callable:
             if administrator == message.from_user.id:
                 return await func(client, message)
 
-    return decorator
+    return decoratorr
 
 
 # Utils Helper
