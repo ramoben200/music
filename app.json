@@ -1,9 +1,9 @@
 
 {
   "name": "Efsane Music",
-  "description": "Telegram'ınızın Grup Sesli Sohbeti'nde şarkı çalmak için Açık Kaynaklı bot. Powered by ramoben200.",
+  "description": "Telegram'ınızın Grup Sesli Sohbeti'nde şarkı çalmak için Açık Kaynaklı bot. Powered by ramoben21.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/ramoben200/EfsaneMusic",
+  "repository": "https://github.com/ramoben21/EfsaneMusic",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
