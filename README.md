@@ -1,8 +1,8 @@
 # Müzik Bot 🇹🇷
-- [Müzik Bot](https://t.me/Ballasresmi) Telegram Müzik Bot .
+- [Müzik Bot](https://t.me/SwoxyComeBack) Telegram Müzik Bot .
 
 # Support 
-- [Support](https://t.me/Ballasresmi) Telegram Support Grub .
+- [Support](https://t.me/SwoxyComeBack) Telegram Support Grub .
 
 
 ### ⏳ Genel Komutlar
@@ -21,5 +21,5 @@
 
 
 ### Heroku Kurulum ⏳
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ramoben21/Music)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Swoxyalemdar/Music)
 -
