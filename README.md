@@ -2,7 +2,7 @@
 - [Müzik Bot](https://t.me/Ballasresmi) Telegram Müzik Bot .
 
 # Support 
-- [Support](https://t.me/Ballasresmi) Telegram Support Grub .
+- [Support](https://t.me/Ballasrsmi) Telegram Support Grub .
 
 
 ### ⏳ Genel Komutlar
